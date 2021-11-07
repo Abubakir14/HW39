@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from 'styled-components';
+import styles from 'styled-components'; // импорт css
 
 const Buttton = styles.button `
 width: 100%;
@@ -26,6 +26,7 @@ border-color: #ac0e77;
 box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
 }
 `;
+// styled component метов css
 
 // const Button = props => {
 //   return (
